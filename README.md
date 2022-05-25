@@ -17,7 +17,7 @@ There are many compilers available for C++. You need to download any one. Here, 
     Click on the tc application file located inside c:\TC\BIN to write the c program
 
 1) Download Turbo C++ software
-You can download turbo C++ from many sites. Eg: https://www.javatpoint.com/cpp/software/tc3.zip
+You can download turbo C++ from many sites. Eg: shorturl.at/imMT7
 
 2) Create turboc directory in c drive and extract the tc3.zip
 Now, you need to create a new directory turboc inside the c: drive. Now extract the tc3.zip file in c:\turboc directory.
