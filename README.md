@@ -1,4 +1,4 @@
-# Supermarket-Inventory-Managment
+# Supermarket-Inventory-Management
 This is a Turbo C++ program. I developed this code for my project in Class 12 CBSE (2019).
 
 The main menu has 3 option: Customer, Administration, Exit.
