@@ -1,7 +1,7 @@
 # Supermarket-Inventory-Management
 This is a Turbo C++ program. I developed this code for my project in Class 12 CBSE (2019).
 
-The main menu has 3 option: Customer, Administration, Exit.
+The main menu has 3 options: Customer, Administration, Exit.
 
 Customer can place orders from the list of items created by the Administration and generate an invoice.
 
